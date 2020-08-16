@@ -1,2 +1,3 @@
-# next-patient-test1
-Repository to test Auth0
+# NextPatient
+
+Test App to test Auth0 authentication
